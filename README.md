@@ -170,34 +170,31 @@ Showcases live deployments, system projects, certificates, achievements, and tec
 
 ---
 # 📊 STATS
-<!-- Overall GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+# 📊 Engineering Metrics
 
-<!-- Streak Stats -->
+<!-- Overall Stats + Streak Side by Side -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<!-- Contribution Graph -->
+<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=react-dark&hide_border=true"/>
 </p>
 
-<!-- Profile Trophy -->
+<!-- Trophy Section (Reduced Columns for Clean Look) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunmudaliyar99-design&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=arjunmudaliyar99-design&theme=onestar&no-frame=true&row=1&column=4" />
 </p>
 
-<!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjunmudaliyar99-design&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=arjunmudaliyar99-design&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 
