@@ -52,7 +52,7 @@ Git • GitHub • Postman • VS Code • Agile
 
 ---
 
-## 🤖 AI & Computer Vision
+## 🤖 other 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
@@ -85,34 +85,7 @@ OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering �
 
 🔗 https://multi-weather-8ijr.onrender.com/  
 
----
-
-## 🏫 EEMS – Smart Educational Platform  
-**Java | Spring Boot | MySQL | REST APIs**
-
-- Role-based dashboards (Admin, Principal, Teacher, HOD)  
-- JWT authentication  
-- Exam scheduling system  
-
----
-
-## 🖐 Real-Time Hand Tracking & Watch Overlay  
-**Python | OpenCV | MediaPipe**
-
-- 21-point hand landmark tracking  
-- Virtual watch overlay  
-- Real-time webcam inference  
-
----
-
-## 🏋️ AyuSangam Fitness Tracker  
-**React.js | REST APIs**
-
-- Wearable health data integration  
-- Gym log tracking  
-- Real-time analytics dashboard  
-
----
+--
 
 ## 🐾 Digital Animal Care Platform  
 **HTML | CSS | JavaScript | Dialogflow**
@@ -123,6 +96,33 @@ OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering �
 
 🔗 https://animalrescue-emergency-response-pla.vercel.app/  
 
+---
+
+## 🖐 Real-Time Hand Tracking & Watch Overlay  
+**Python | OpenCV | MediaPipe**
+
+- 21-point hand landmark tracking  
+- Virtual watch overlay  
+- Real-time webcam inference
+- 
+🔗 https://luxe-time-e-commerce.vercel.app/
+
+--
+
+## 🏫 EEMS – Smart Educational Platform  
+**Java | Spring Boot | MySQL | REST APIs**
+
+- Role-based dashboards (Admin, Principal, Teacher, HOD)  
+- JWT authentication  
+- Exam scheduling system  
+
+---
+## 🏋️ AyuSangam Fitness Tracker  
+**React.js | REST APIs**
+
+- Wearable health data integration  
+- Gym log tracking  
+- Real-time analytics dashboard  
 ---
 
 # 📜 CERTIFICATIONS
