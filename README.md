@@ -149,6 +149,21 @@ Showcases live deployments, system projects,Certificates,achievements and techni
 
 ---
 
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 # 🏆 ACHIEVEMENTS
 
 - 🥈 Silver Medalist — Mumbai City District Powerlifting Championship  
