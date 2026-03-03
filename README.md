@@ -52,7 +52,7 @@ Git • GitHub • Postman • VS Code • Agile
 
 ---
 
-## 🤖 AI & Other Technologies
+## 🤖Other Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
