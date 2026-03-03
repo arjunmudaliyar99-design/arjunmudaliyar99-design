@@ -60,6 +60,19 @@ Git • GitHub • Postman • VS Code • Agile
 OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering • Generative AI  
 
 ---
+# 🌐 PERSONAL PORTFOLIO
+
+<p align="center">
+<a href="https://arjun-portfolio-wheat.vercel.app/">
+<img src="https://img.shields.io/badge/Visit-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
+
+🔗 https://arjun-portfolio-wheat.vercel.app/
+
+Showcases live deployments, system projects, and technical work.
+
+--
 
 # 🚀 PROJECTS
 
