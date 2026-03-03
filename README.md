@@ -70,7 +70,7 @@ OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering �
 
 🔗 https://arjun-portfolio-wheat.vercel.app/
 
-Showcases live deployments, system projects, and technical work.
+Showcases live deployments, system projects,Certificates,achievements and technical work.
 
 --
 
