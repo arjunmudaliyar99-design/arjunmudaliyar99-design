@@ -170,33 +170,24 @@ Showcases live deployments, system projects, certificates, achievements, and tec
 
 ---
 # 📊 STATS
+
 # 📊 Engineering Metrics
 
-<!-- Overall Stats + Streak Side by Side -->
+<!-- Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
 
-<!-- Activity Graph -->
+<!-- Activity Graph (More Stable Endpoint) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
-
-<!-- Trophy Section (Reduced Columns for Clean Look) -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arjunmudaliyar99-design&theme=onestar&no-frame=true&row=1&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arjunmudaliyar99-design&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 
 <p align="center">
 Clean Architecture • Structured Code • Consistent Execution
