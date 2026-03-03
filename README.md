@@ -122,16 +122,6 @@ Showcases live deployments, system projects, certificates, achievements, and tec
 🔗 https://luxe-time-e-commerce.vercel.app/
 
 ---
-
-## 🖐 Real-Time Hand Tracking & Watch Overlay  
-**Python | OpenCV | MediaPipe**
-
-- 21-point hand landmark tracking  
-- Virtual watch overlay  
-- Real-time webcam inference  
-
----
-
 ## 🏫 EEMS – Smart Educational Platform  
 **Java | Spring Boot | MySQL | REST APIs**
 
