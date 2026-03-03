@@ -52,7 +52,7 @@ Git • GitHub • Postman • VS Code • Agile
 
 ---
 
-## 🤖 other 
+## 🤖 AI & Other Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
@@ -60,6 +60,7 @@ Git • GitHub • Postman • VS Code • Agile
 OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering • Generative AI  
 
 ---
+
 # 🌐 PERSONAL PORTFOLIO
 
 <p align="center">
@@ -70,9 +71,9 @@ OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering �
 
 🔗 https://arjun-portfolio-wheat.vercel.app/
 
-Showcases live deployments, system projects,Certificates,achievements and technical work.
+Showcases live deployments, system projects, certificates, achievements, and technical work.
 
---
+---
 
 # 🚀 PROJECTS
 
@@ -98,7 +99,7 @@ Showcases live deployments, system projects,Certificates,achievements and techni
 
 🔗 https://multi-weather-8ijr.onrender.com/  
 
---
+---
 
 ## 🐾 Digital Animal Care Platform  
 **HTML | CSS | JavaScript | Dialogflow**
@@ -111,16 +112,25 @@ Showcases live deployments, system projects,Certificates,achievements and techni
 
 ---
 
+## 🛍 LuxeTime E-Commerce Website  
+**HTML | CSS | JavaScript**
+
+- Responsive product showcase  
+- Interactive UI components  
+- Modern front-end design  
+
+🔗 https://luxe-time-e-commerce.vercel.app/
+
+---
+
 ## 🖐 Real-Time Hand Tracking & Watch Overlay  
 **Python | OpenCV | MediaPipe**
 
 - 21-point hand landmark tracking  
 - Virtual watch overlay  
-- Real-time webcam inference
-- 
-🔗 https://luxe-time-e-commerce.vercel.app/
+- Real-time webcam inference  
 
---
+---
 
 ## 🏫 EEMS – Smart Educational Platform  
 **Java | Spring Boot | MySQL | REST APIs**
@@ -130,12 +140,14 @@ Showcases live deployments, system projects,Certificates,achievements and techni
 - Exam scheduling system  
 
 ---
+
 ## 🏋️ AyuSangam Fitness Tracker  
 **React.js | REST APIs**
 
 - Wearable health data integration  
 - Gym log tracking  
 - Real-time analytics dashboard  
+
 ---
 
 # 📜 CERTIFICATIONS
@@ -163,6 +175,11 @@ Showcases live deployments, system projects,Certificates,achievements and techni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=react-dark&hide_border=true" />
+</p>
+
+---
 
 # 🏆 ACHIEVEMENTS
 
@@ -172,6 +189,38 @@ Showcases live deployments, system projects,Certificates,achievements and techni
 - 🥊 Training in Mixed Martial Arts (Boxing, Wrestling, Muay Thai)  
 
 ---
+# 📊 Engineering Metrics
+
+<!-- Overall GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunmudaliyar99-design&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=react-dark&hide_border=true" />
+</p>
+
+<!-- Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arjunmudaliyar99-design&theme=onestar&no-frame=true&row=1&column=6" />
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arjunmudaliyar99-design&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 
 <p align="center">
 Clean Architecture • Structured Code • Consistent Execution
