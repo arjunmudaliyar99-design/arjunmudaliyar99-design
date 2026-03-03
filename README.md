@@ -1,175 +1,150 @@
-<h1 align="center">Arjun Ramasamy Mudaliyar</h1>
-<h3 align="center">Software Engineer • Backend-Focused • Full Stack Development</h3>
-
-<p align="center">
-Java • Spring Boot • REST APIs • MongoDB • MySQL • React
-</p>
+<h1 align="center">ARJUN RAMASAMY MUDALIYAR</h1>
+<h3 align="center">Full Stack Developer | Backend-Focused | AI & Computer Vision</h3>
 
 ---
 
-## Engineering Profile
+## ⚡ ABOUT ME
 
-Full Stack Developer with production-level experience in web application debugging, API validation, and backend collaboration.
+Full Stack Developer with hands-on experience in web application debugging, API validation, and frontend engineering.
 
-Strong foundation in Java and Spring Boot.  
-Focused on building structured, scalable web applications with secure authentication and clean architecture.
+Strong foundation in Java and backend architecture using Spring Boot.  
+Experienced in building scalable applications with REST APIs, MongoDB, and React.
 
----
-
-## Professional Experience
-
-### Software Support Engineer — Data Vista Solutions (May 2025 – Present)
-
-- Reproduced and analyzed production-level web application issues
-- Investigated API failures using browser DevTools
-- Validated backend responses and system behavior
-- Logged structured technical bug reports
-- Collaborated with backend developers to verify fixes before deployment
+Currently working in a production debugging environment, collaborating with backend engineers before deployment.
 
 ---
 
-### Programming Mentor — Disha Classes (May 2024 – Feb 2025)
+# 🛠 TECH STACK
 
-- Taught C, C++, HTML, CSS, Python
-- Designed hands-on project-based curriculum
-- Improved practical coding proficiency of students
-
----
-
-## Selected Projects
-
-### Smart To-Do — Intelligent Task Planning System  
-**Java • Spring Boot • MongoDB • REST APIs • PWA**
-
-- Priority-based task management system
-- AI-generated workout planning
-- Backend-first application design
-- Progressive Web App deployment
-
-Live:
-https://smart-todo-list-fb8d.onrender.com/login.html
-
----
-
-### ForecastIQ — Real-Time Weather Analytics Platform  
-**Next.js • MongoDB**
-
-- Multi-city weather dashboard
-- Persistent favorites management
-- Secure API integration
-- Real-time external API data handling
-
-Live:
-https://multi-weather-8ijr.onrender.com/
-
----
-
-### EEMS — Educational Management System  
-**Java • Spring Boot • MySQL • REST APIs**
-
-- Role-based dashboards (Admin, Principal, Teacher, HOD)
-- JWT-based authentication
-- Exam scheduling module
-- Structured relational database schema
-
----
-
-### Real-Time Hand Tracking & Watch Overlay  
-**Python • OpenCV • MediaPipe**
-
-- 21-point hand landmark detection
-- Real-time computer vision overlay
-- Webcam-based inference system
-
----
-
-## Technical Skills
-
-### Frontend
+## 💻 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### Backend
+HTML5 • CSS3 • JavaScript • React.js • Responsive Web Design  
+
+---
+
+## ⚙️ Backend
 <p>
 <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-### Database
+Java • Spring Boot • RESTful APIs  
+
+---
+
+## 🗄 Database
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c" />
-</p>
+MySQL • MongoDB  
 
-### Tools
+---
+
+## 🛠 Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
----
-
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunmudaliyar99-design&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunmudaliyar99-design&theme=github-compact" />
-</p>
+Git • GitHub • Postman • VS Code • Agile  
 
 ---
 
-## Education
+## 🤖 AI & Computer Vision
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
 
-Bachelor of Science — Information Technology  
-University of Mumbai (2022 – 2025)
-
-Relevant Coursework:
-Data Structures • Algorithms • DBMS • Machine Learning • Computer Vision • Web Development
+OpenCV • MediaPipe • YOLO • Python • C • C++ • Prompt Engineering • Generative AI  
 
 ---
 
-## Certifications
+# 🚀 PROJECTS
 
+## 🧩 Smart To-Do – Intelligent Task Planning System  
+**Java | Spring Boot | MongoDB | REST APIs | PWA**
+
+- Priority-based task management  
+- AI-generated workout planning  
+- Real-time collaboration  
+- Progressive Web App deployment  
+
+🔗 https://smart-todo-list-fb8d.onrender.com/login.html  
+
+---
+
+## 🌦 ForecastIQ – Real-Time Weather Analytics & Personalization Engine  
+**Next.js | MongoDB**
+
+- Personalized dashboards  
+- Multi-city management  
+- Favorites persistence  
+- Real-time API integration  
+
+🔗 https://multi-weather-8ijr.onrender.com/  
+
+---
+
+## 🏫 EEMS – Smart Educational Platform  
+**Java | Spring Boot | MySQL | REST APIs**
+
+- Role-based dashboards (Admin, Principal, Teacher, HOD)  
+- JWT authentication  
+- Exam scheduling system  
+
+---
+
+## 🖐 Real-Time Hand Tracking & Watch Overlay  
+**Python | OpenCV | MediaPipe**
+
+- 21-point hand landmark tracking  
+- Virtual watch overlay  
+- Real-time webcam inference  
+
+---
+
+## 🏋️ AyuSangam Fitness Tracker  
+**React.js | REST APIs**
+
+- Wearable health data integration  
+- Gym log tracking  
+- Real-time analytics dashboard  
+
+---
+
+## 🐾 Digital Animal Care Platform  
+**HTML | CSS | JavaScript | Dialogflow**
+
+- AI chatbot for consultations  
+- WhatsApp alert integration  
+- Pet owner & vet connection system  
+
+🔗 https://animalrescue-emergency-response-pla.vercel.app/  
+
+---
+
+# 📜 CERTIFICATIONS
+
+- JPMorgan Chase — Software Engineering  
 - AWS Solutions Architecture  
-- JPMorgan Chase Software Engineering  
 - Walmart Advanced Software Engineering (Forage)  
-- AI Prompt Engineering — Microsoft × Reliance Digital  
+- C & C++ Programming Certification — PAL India  
+- AI Prompt Engineering Masterclass — Microsoft × Reliance Digital  
 - Introduction to AI & AI Ethics — IBM  
-- C & C++ Programming — PAL India  
 
 ---
 
-## Achievements
+# 🏆 ACHIEVEMENTS
 
-- Silver Medalist — Mumbai City District Powerlifting Championship  
-- Led 120+ member college fest team securing 40+ sponsors  
-- Active in Powerlifting, Cricket & Mixed Martial Arts  
-
----
-
-## Contact
-
-LinkedIn:
-https://www.linkedin.com/in/arjun-ramasamy-mudaliyar/
-
-Portfolio:
-https://arjun-portfolio-wheat.vercel.app/
-
-Email:
-arjunmudaliyar99@gmail.com
+- 🥈 Silver Medalist — Mumbai City District Powerlifting Championship  
+- 🎯 Organized Swastika College Fest (Led 120+ member team, secured 40+ sponsors)  
+- 🏏 Active athlete in Powerlifting & Cricket (Mumbai associations)  
+- 🥊 Training in Mixed Martial Arts (Boxing, Wrestling, Muay Thai)  
 
 ---
 
 <p align="center">
-Engineering discipline. Clean architecture. Consistent execution.
+Clean Architecture • Structured Code • Consistent Execution
 </p>
