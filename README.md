@@ -170,9 +170,6 @@ Showcases live deployments, system projects, certificates, achievements, and tec
 
 ---
 # 📊 STATS
-
-# 📊 Engineering Metrics
-
 <!-- Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjunmudaliyar99-design&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
